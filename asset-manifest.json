@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/corduka/ecommerce-app-entrega-final/static/js/main.f3cbb6a0.js",
-    "static/media/logo.png": "/corduka/ecommerce-app-entrega-final/static/media/logo.c4c5c6bd6e293ce698e6.png",
-    "index.html": "/corduka/ecommerce-app-entrega-final/index.html",
-    "main.f3cbb6a0.js.map": "/corduka/ecommerce-app-entrega-final/static/js/main.f3cbb6a0.js.map"
+    "main.js": "/ecommerce-app-entrega-final/static/js/main.c19954f1.js",
+    "static/media/logo.png": "/ecommerce-app-entrega-final/static/media/logo.c4c5c6bd6e293ce698e6.png",
+    "index.html": "/ecommerce-app-entrega-final/index.html",
+    "main.c19954f1.js.map": "/ecommerce-app-entrega-final/static/js/main.c19954f1.js.map"
   },
   "entrypoints": [
-    "static/js/main.f3cbb6a0.js"
+    "static/js/main.c19954f1.js"
   ]
 }
