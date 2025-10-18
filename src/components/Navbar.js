@@ -50,9 +50,9 @@ export default function Navbar() {
               className="cart-button"
               onClick={() => setIsOpen(false)}
             >
-              Cart 🛒
+              Cart 🛒 {totalItems > 0 && <span className="cart-count">{totalItems}</span>}
             </Link>
-            {totalItems > 0 && <span className="cart-count">{totalItems}</span>}
+            
           </li>
           <li className="cart-wrapper">
             <Link

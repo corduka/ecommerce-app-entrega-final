@@ -303,6 +303,10 @@ nav ul.nav-list li a:hover {
   font-family: "Roboto", sans-serif;
 }
 
+.cart-count {
+  font-weight:200
+}
+
 .cart-left {
   flex: 3; /* 75% width */
   display: flex;
