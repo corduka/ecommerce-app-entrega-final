@@ -2,7 +2,6 @@
 
 An ecommerce web application built with **React**.  
 The project simulates an online store where users can browse products, add them to a cart, and proceed with checkout.  
-Deployed with **GitHub Pages** → [Live Demo](https://corduka.github.io/ecommerce-app-entrega-final/)
 
 ---
 
@@ -19,7 +18,7 @@ Deployed with **GitHub Pages** → [Live Demo](https://corduka.github.io/ecommer
 
 ## 🛠️ Tech Stack
 
-- **React** (Vite or CRA depending on setup)
+- **React.js** (CRA)
 - **React Router** for navigation
 - **JavaScript (ES6+)**
 - **CSS / Sass** for styling
